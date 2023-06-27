@@ -2,7 +2,7 @@
 
 A simple code to crop all images in a directory into multiple patches. 
 
--> Cuts the images into non-overlapping patches with a minimum width of 1024, as illustrated in this example:
+-> Cuts the images into non-overlapping square patches with a minimum width of 1024, as illustrated in this example:
 
 <img src="img_example.png" width="700"/>
 
